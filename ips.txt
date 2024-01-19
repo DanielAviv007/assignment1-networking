@@ -1,0 +1,3 @@
+www.biu.ac.il,1.2.3.4
+mail.biu.ac.il,1.2.3.5
+biu.ac.il,1.2.3.4
